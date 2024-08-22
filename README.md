@@ -6,7 +6,8 @@ As someone with extensive experience working with computers, I have recently sta
 
 <!-- Enjoyable things -->
 ## One thing I enjoy 😄
-<img src="https://github.com/user-attachments/assets/201b6c96-e6c0-4338-a99e-d19b70ed18f1" width="500" height="500"/>
+<img src="https://github.com/user-attachments/assets/201b6c96-e6c0-4338-a99e-d19b70ed18f1" width="1080" height="1080"/>
+
 I enjoy the nature a lot, I find the woods and rainforest to be a place that is calming to me.
 
 <!-- My projects -->
