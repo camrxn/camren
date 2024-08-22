@@ -1,4 +1,4 @@
-# Hi there! ⚡
+# Hi there!⚡
 
 <!-- A little about me -->
 ## About me 💬
@@ -14,7 +14,7 @@ I enjoy the nature a lot, I find the woods and rainforest to be a place that is 
 ![Visual_Studio_Code_1 35_icon](https://github.com/user-attachments/assets/c152b98b-d97b-4025-8340-9b3cc8e87367)
 
 <!-- Where to find me! -->
-## Social Medias 📫
+## Social Media 📫
 <img src="https://github.com/user-attachments/assets/9aa527af-f36c-4d07-97f0-fdab5e6ea56c" width="30" height="30"/> **@cqmrxn**
 
 <!--
