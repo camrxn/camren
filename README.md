@@ -12,6 +12,7 @@ I enjoy the nature a lot, I find the woods and rainforest to be a place that is 
 <!-- My projects -->
 ## Current Projects 📖
 ![Visual_Studio_Code_1 35_icon](https://github.com/user-attachments/assets/c152b98b-d97b-4025-8340-9b3cc8e87367)
+
 I am starting to learn Visual Studio Code, I believe that VS Code is a important factor within coding and am working towards getting better in VS Code.
 
 <!-- Where to find me! -->
