@@ -15,10 +15,8 @@ I enjoy the nature a lot, I find the woods and rainforest to be a place that is 
 
 <!-- Where to find me! -->
 ## Social Medias
-![Instagram_icon png](https://github.com/user-attachments/assets/9aa527af-f36c-4d07-97f0-fdab5e6ea56c)
+![Instagram_icon png](https://github.com/user-attachments/assets/9aa527af-f36c-4d07-97f0-fdab5e6ea56c) {width=40px height=400px})
 @cqmrxn
-
-I am currently learning Visual Studio Code, I am attempting to learn VS Code since I believe it is a important factor within learning how to code.
 
 <!--
 **camrxn/camrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
