@@ -12,7 +12,7 @@ I enjoy the nature a lot, I find the woods and rainforest to be a place that is 
 
 <!-- My projects -->
 ## Current Projects 📖
-<img src="https://github.com/user-attachments/assets/c152b98b-d97b-4025-8340-9b3cc8e87367" width="400" height="400"/> **@cqmrxn**
+<img src="https://github.com/user-attachments/assets/c152b98b-d97b-4025-8340-9b3cc8e87367" width="200" height="200"/>
 
 I am starting to learn Visual Studio Code, I believe that VS Code is a important factor within coding and am working towards getting better in VS Code.
 
