@@ -6,13 +6,13 @@ As someone with extensive experience working with computers, I have recently sta
 
 <!-- Enjoyable things -->
 ## One thing I enjoy 😄
-<img src="https://github.com/user-attachments/assets/201b6c96-e6c0-4338-a99e-d19b70ed18f1" width="1080" height="1720"/>
+<img src="https://github.com/user-attachments/assets/201b6c96-e6c0-4338-a99e-d19b70ed18f1" width="1920" height="1080"/>
 
 I enjoy the nature a lot, I find the woods and rainforest to be a place that is calming to me.
 
 <!-- My projects -->
 ## Current Projects 📖
-![Visual_Studio_Code_1 35_icon](https://github.com/user-attachments/assets/c152b98b-d97b-4025-8340-9b3cc8e87367)
+<img src="https://github.com/user-attachments/assets/c152b98b-d97b-4025-8340-9b3cc8e87367" width="400" height="400"/> **@cqmrxn**
 
 I am starting to learn Visual Studio Code, I believe that VS Code is a important factor within coding and am working towards getting better in VS Code.
 
