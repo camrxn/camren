@@ -15,7 +15,8 @@ I enjoy the nature a lot, I find the woods and rainforest to be a place that is 
 
 <!-- Where to find me! -->
 ## Social Medias
-<img src="https://github.com/user-attachments/assets/9aa527af-f36c-4d07-97f0-fdab5e6ea56c" width="25" height="25"/>
+<img src="https://github.com/user-attachments/assets/9aa527af-f36c-4d07-97f0-fdab5e6ea56c" width="30" height="30"/> @cqmrxn
+
 <!--
 **camrxn/camrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
